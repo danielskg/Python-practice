@@ -1,4 +1,4 @@
- import random
+import random
 gamenum = player = pc = 0
 options = ['πέτρα', 'χαρτί', 'ψαλίδι']
 while True:
